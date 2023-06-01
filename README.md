@@ -33,4 +33,4 @@
 
 ### 서비스 세부 설명
 
-<img width="50%" src="https://github.com/BrainStorm-sc21/BrainStorm_sc21/files/11624372/2023-1._SW._7.BrainStorm.1.pdf">
+<img width="50%" src="https://github.com/BrainStorm-sc21/BrainStorm_sc21/assets/101620252/76dff5f2-5f1c-43bd-9d4e-fcca4502f4a0">
