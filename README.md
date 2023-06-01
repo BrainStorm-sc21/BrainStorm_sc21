@@ -2,7 +2,7 @@
 
 ### 2023 아주대학교 캡스톤디자인 07.BrainStorm 팀 레포입니다.
 
-![먹장 썸네일](https://github.com/BrainStorm-sc21/BrainStorm_sc21/assets/101620252/1ac5bdb0-1177-4111-a0ad-0b0a9c0e156c)
+<img width="50%" src="https://github.com/BrainStorm-sc21/BrainStorm_sc21/assets/101620252/1ac5bdb0-1177-4111-a0ad-0b0a9c0e156c">
 
 
 ### 팀원 소개
