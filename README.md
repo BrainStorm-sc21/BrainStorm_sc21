@@ -29,3 +29,8 @@
 - 프론트엔드(Flutter): https://github.com/BrainStorm-sc21/BrainStorm-FE
 - 백엔드(Spring boot): https://github.com/BrainStorm-sc21/BrainStorm-BE
 - Manifest: private
+
+
+### 서비스 세부 설명
+
+<img width="50%" src="https://github.com/BrainStorm-sc21/BrainStorm_sc21/files/11624372/2023-1._SW._7.BrainStorm.1.pdf">
